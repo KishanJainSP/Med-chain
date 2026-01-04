@@ -1,0 +1,71 @@
+text,label
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+Physical therapy referral for gait training and balance exercises.,treatment
+Physical therapy referral for gait training and balance exercises.,treatment
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+Physical therapy referral for gait training and balance exercises.,treatment
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Physical therapy referral for gait training and balance exercises.,treatment
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+Physical therapy referral for gait training and balance exercises.,treatment
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+Physical therapy referral for gait training and balance exercises.,treatment
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+Physical therapy referral for gait training and balance exercises.,treatment
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+"Patient complains of numbness and tingling in both feet, worse at night.",symptom
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom

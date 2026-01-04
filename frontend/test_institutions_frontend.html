@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Institutions API</title>
+</head>
+<body>
+    <h1>Testing Institutions API from Frontend</h1>
+    <button onclick="testInstitutions()">Test Institutions Endpoint</button>
+    <div id="result"></div>
+
+    <script>
+        async function testInstitutions() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = 'Loading...';
+            
+            try {
+                const response = await fetch('http://localhost:8000/api/institutions');
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <h2>Success! Found ${data.length} institutions:</h2>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <h2>Error:</h2>
+                    <pre>${error.message}</pre>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

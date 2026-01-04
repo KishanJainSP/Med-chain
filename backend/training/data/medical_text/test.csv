@@ -1,0 +1,16 @@
+text,label
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+Hemoglobin A1c: 7.2%. Fasting glucose: 132 mg/dL. Lipid panel within normal limits.,test_result
+Blood pressure: 145/92 mmHg. Heart rate: 88 bpm. Temperature: 98.6°F. SpO2: 96% on room air.,test_result
+Diagnosis: Type 2 Diabetes Mellitus with peripheral neuropathy. ICD-10: E11.42,diagnosis
+Start Metformin 500mg twice daily with meals. Increase gradually to 1000mg twice daily.,medication
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+Recommend cardiac catheterization to assess coronary artery disease. Continue current medications.,treatment
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+"Patient reports persistent cough for 2 weeks, productive with yellow sputum. Denies fever or chills.",symptom
+"Prescribed Aspirin 81mg daily, Lisinopril 10mg daily, Metoprolol 25mg twice daily.",medication
+"Patient presents with chest pain radiating to left arm, shortness of breath, and diaphoresis. ECG shows ST elevation.",diagnosis
